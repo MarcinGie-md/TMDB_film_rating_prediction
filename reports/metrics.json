@@ -1,0 +1,23 @@
+{
+  "alpha": 5.0,
+  "sizes": {
+    "train": 2748,
+    "test": 485
+  },
+  "mae": 0.4740044607953983,
+  "rmse": 0.604231681444003,
+  "r2": 0.46194864933243485,
+  "baseline_mean": 6.342576419213974,
+  "mae_baseline": 0.6650524467654076,
+  "improvement_pct": 28.726754844554403,
+  "topk": {
+    "K": 50,
+    "columns": [
+      "main_genre",
+      "actor_1",
+      "actor_2",
+      "actor_3",
+      "director"
+    ]
+  }
+}

@@ -158,7 +158,7 @@ def main():
     # Predykcje test i metryki
     y_pred = final_pipe.predict(X_test)
     mae = mean_absolute_error(y_test, y_pred)
-    rmse = mean_squared_error(y_test, y_pred, squared=False)
+    rmse = float(np.sqrt(mean_squared_error(y_test, y_pred)))
     r2 = r2_score(y_test, y_pred)
 
     # Baseline: średnia z train_full

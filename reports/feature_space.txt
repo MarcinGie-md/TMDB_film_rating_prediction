@@ -1,0 +1,52 @@
+Feature count after preprocessing: 225
+First 50 feature names (preview):
+- num__budget
+- num__revenue
+- num__runtime
+- num__popularity
+- num__vote_count
+- num__release_year
+- cat__main_genre_Action
+- cat__main_genre_Adventure
+- cat__main_genre_Animation
+- cat__main_genre_Comedy
+- cat__main_genre_Crime
+- cat__main_genre_Documentary
+- cat__main_genre_Drama
+- cat__main_genre_Family
+- cat__main_genre_Fantasy
+- cat__main_genre_History
+- cat__main_genre_Horror
+- cat__main_genre_Music
+- cat__main_genre_Mystery
+- cat__main_genre_Romance
+- cat__main_genre_Science Fiction
+- cat__main_genre_TV Movie
+- cat__main_genre_Thriller
+- cat__main_genre_War
+- cat__main_genre_Western
+- cat__actor_1_Adam Sandler
+- cat__actor_1_Al Pacino
+- cat__actor_1_Angelina Jolie
+- cat__actor_1_Antonio Banderas
+- cat__actor_1_Arnold Schwarzenegger
+- cat__actor_1_Ben Affleck
+- cat__actor_1_Ben Stiller
+- cat__actor_1_Bill Murray
+- cat__actor_1_Brad Pitt
+- cat__actor_1_Bruce Willis
+- cat__actor_1_Christian Bale
+- cat__actor_1_Clint Eastwood
+- cat__actor_1_Denzel Washington
+- cat__actor_1_Dwayne Johnson
+- cat__actor_1_Eddie Murphy
+- cat__actor_1_George Clooney
+- cat__actor_1_Harrison Ford
+- cat__actor_1_Jason Statham
+- cat__actor_1_Jeff Bridges
+- cat__actor_1_Jim Carrey
+- cat__actor_1_John Cusack
+- cat__actor_1_John Travolta
+- cat__actor_1_Johnny Depp
+- cat__actor_1_Keanu Reeves
+- cat__actor_1_Kevin Costner
