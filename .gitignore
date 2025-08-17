@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+venv/
+
+# Data & models (surowe i modele nie trafiają do repo)
+data/processed/
+models/
+
+# System/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
